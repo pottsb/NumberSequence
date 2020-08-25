@@ -1,3 +1,5 @@
+# Written by Peter B
+
 def calculateSequence(inputNumber):
     print(inputNumber)
     oldNumber = inputNumber
