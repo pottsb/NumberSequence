@@ -23,3 +23,4 @@ def getNumber():
     return inputNumber
 
 calculateSequence(getNumber())
+input("Press any key to close the window.")
